@@ -1,0 +1,1 @@
+# Enums for type-safety
